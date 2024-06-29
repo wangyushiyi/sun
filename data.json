@@ -4,7 +4,8 @@
         "items": [
             {"name": "青椒", "price": 4.00},
             {"name": "黄瓜", "price": 2.75},
-            {"name": "玉米", "price": 1.80}
+            {"name": "玉米", "price": 1.80},
+{"name": "豆角", "price": 2.80}
         ]
     },
     {
